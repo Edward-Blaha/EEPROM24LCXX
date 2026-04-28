@@ -5,6 +5,12 @@
 // (Code tested with 24LC16)                                                   //
 // Author: Edward Blaha                                                        //
 // Date: April 2026                                                            //
+//                                                                             //
+// Dedicated to the public domain via The Unlicense.                           //
+// See https://unlicense.org/ for details.                                     //
+//                                                                             //
+// For more information about this project, please visit                       //
+// https://github.com/Edward-Blaha                                             //
 /*-----------------------------------------------------------------------------*/
 
 #include <EEPROM24LCXX.h> // custom lib
