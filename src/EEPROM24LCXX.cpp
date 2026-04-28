@@ -5,6 +5,12 @@
 // Handles device addressing and Wire protocol sequences.                      //
 // Author: Edward Blaha                                                        //
 // Last Update: April 2026                                                     //
+//                                                                             //
+// Dedicated to the public domain via The Unlicense.                           //
+// See https://unlicense.org/ for details.                                     //
+//                                                                             //
+// For more information about this project, please visit                       //
+// https://github.com/Edward-Blaha                                             //
 /*-----------------------------------------------------------------------------*/
 #include "EEPROM24LCXX.h"
 void EEPROM24LCXX::begin(){
