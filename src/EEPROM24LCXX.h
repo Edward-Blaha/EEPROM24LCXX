@@ -4,6 +4,12 @@
 // Description: Class Definition for the EEPROM24LCXX lib                      //
 // Author: Edward Blaha                                                        //
 // Last Update: April 2026                                                     //
+//                                                                             //
+// Dedicated to the public domain via The Unlicense.                           //
+// See https://unlicense.org/ for details.                                     //
+//                                                                             //
+// For more information about this project, please visit                       //
+// https://github.com/Edward-Blaha                                             //
 /*-----------------------------------------------------------------------------*/
 #ifndef EEPROM24LCXX_H
 #define EEPROM24LCXX_H
